@@ -30,4 +30,4 @@ Key Features
 
 ### **Project Report**
 Detailed documentation of the database analysis, ER design, and normalization phases:
-[Download/View Project Report PDF](./Documentation.pdf)
+[View Project Report PDF](./Documentation.pdf)

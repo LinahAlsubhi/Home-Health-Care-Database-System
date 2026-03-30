@@ -27,3 +27,7 @@ Key Features
     - Language: Oracle SQL.
 
     - Concepts: Database Design, ER Modeling, Normalization, Relational Mapping.
+
+### **Project Report**
+Detailed documentation of the database analysis, ER design, and normalization phases:
+[Download/View Project Report PDF](./Documentation/CPCS241-Home-Health-Care-Centre-Database-Phase3.pdf)

@@ -1,7 +1,7 @@
 # Home-Health-Care-Database-System
 A comprehensive SQL database design for a health care center, including ER diagram, normalization, and SQL scripts
 
-# Project Overview
+## Project Overview
 
 This project involves the design and implementation of a comprehensive relational database system for a Home Health Care Centre. The system is designed to manage healthcare professionals (doctors and nurses), patient records, appointment scheduling, treatment plans, and billing operations efficiently.
 Key Features
@@ -14,7 +14,7 @@ Key Features
 
     - Advanced SQL Querying: Developed complex queries to extract business insights, such as monitoring patient medication history and analyzing staff performance based on appointment costs.
 
-# Repository Structure
+## Repository Structure
 
     1- Schema_Creation.sql: Contains the DDL scripts for creating all 20+ tables and establishing relational constraints.
 
@@ -22,12 +22,12 @@ Key Features
 
     3- Queries.sql: Includes a set of advanced SQL queries designed to solve specific business problems and generate reports.
 
-# Technologies Used
+## Technologies Used
 
     - Language: Oracle SQL.
 
     - Concepts: Database Design, ER Modeling, Normalization, Relational Mapping.
 
-### **Project Report**
+## Project Report
 Detailed documentation of the database analysis, ER design, and normalization phases:
 [View Project Report PDF](./Documentation.pdf)

@@ -30,4 +30,4 @@ Key Features
 
 ### **Project Report**
 Detailed documentation of the database analysis, ER design, and normalization phases:
-[Download/View Project Report PDF](./Documentation/CPCS241-Home-Health-Care-Centre-Database-Phase3.pdf)
+[Download/View Project Report PDF](./Documentation.pdf)
